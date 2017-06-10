@@ -2,9 +2,9 @@
 
 __Profile__ of a problem solver.
 
-I am a skilled technologist with experience in software, internet technologies, and network administration. I bring depth and breadth of understanding to my work and have a knack for delivering creative solutions using anything from industry standard tools to finding a resourceful use for whatever is on hand.
+I am a skilled technologist with experience in software, internet technologies, and network administration. I bring depth and breadth of understanding to my work and have a knack for devising creative solutions using anything from industry standard tools to finding a use for whatever is on hand.
 
-My greatest strength is systems analysis.
+The advantage I rely on to achieve results is systems analysis. I am interested in how software works, but I am fascinated by how individual components fit together in complex ways.
 
 My approach to success begins with familiarizing myself with the internals of systems I work with and using that to my advantage while clearly communicating my findings. I excel in problem resolution roles and do my best work when no one is sure exactly how to proceed.
 
@@ -19,6 +19,7 @@ Programming Languages
   * Javascript, ES6
   * JCL / REXX / ISPF
 * RO
+  * Go
   * Java
   * C / C++ / C#
   * COBOL
@@ -33,23 +34,34 @@ Platforms and Environments
 Software
 
  * RAID (md), Logical Voluming (lvm), S3
- * MySQL, PostgreSQL, RDS, DB2
+ * MySQL, PostgreSQL, Amazon Aurora, RDS, DB2
  * Cassandra, DynamoDB
- * nginx, Apache, ELB
+ * nginx, Apache, ELB/ALB
  * Gunicorn, PHP-FPM, uWSGI, Tomcat, PhusionPassenger
- * Fabric, Boto, Chef, Terraform, Vagrant, Docker, Consul
+ * RabbitMQ, SQS, Kinesis
+ * Fabric, Boto, Saltstack, Chef, Terraform
+ * Vagrant, Docker, ECS
+ * Consul
 
 __Experience__ has allowed my to sharpen my skills.
 
-> AppNeta Vancouver, BC 2015 - Present, QA Engineer
+> Librato (SolarWinds) Vancouver, BC 2016 - Present, Site Reliability Engineer
+
+Part of an IP acquisition of TraceView technology and personnel, joined the operations team and began building groundwork for a product unifying distributed tracing with metrics monitoring.
+
+Designed, documented, and implemented cloud infrastructure using Terraform and Saltstack and integrating with existing chatops and internal operations APIs.
+
+Continued to participate in operational on-call support of legcy TraceView system.
+
+> AppNeta Vancouver, BC 2015 - 2016, QA Engineer
 
 Hired as the first dedicated QA staff for TraceView, a distributed tracing system for performance analysis of web applications.
 
 Worked closely with the development team devising test plans, verifying bug fixes, and evaluating features. 
 
-Devised techniques for generating complex test data by both emulating and replicating distributed systems designed to replicate our users environments.
+Devised techniques for generating complex test data by both emulating and replicating distributed systems designed to model our users environments.
 
-Automated the creation and deployment of test environments and test applications using tools like Chef, Terraform, and Consul.
+Automated the creation and deployment of test environments and test applications using Chef, Terraform, and Consul.
 
 Participated in on-call ops rotation carrying the pager and handling production incidents.
 
@@ -57,11 +69,11 @@ Participated in on-call ops rotation carrying the pager and handling production 
 
 Hired as the first dedicated support staff for TraceView.
 
-Directly involved in geting new users up and running with a sophisticated product in their unique environments using our supported components, including the most popular web servers on the internet, any one of a half dozen supported programming languages, and countless web app frameworks and toolkits.
+Directly involved in geting new users up and running with a sophisticated monitoring product in their unique environments using our supported components, including the most popular web servers on the internet, any one of a half dozen supported programming languages, and countless web app frameworks and toolkits.
 
 Worked on all aspects of customer support from liasing with technical writers to keep documentation accurate, to devising and iterating support processes, to maintaining and improving support tools and infrastructure.
 
-Gained familiarity with common web app components along the way such as popular message queues, app servers, frameworks (front-end and back end), middleware, virtualization and containerization tools, etc.
+Gained familiarity with common web app components along the way such as popular message queues, app servers, frameworks (front-end and back end), middleware, virtualization and containerization tools.
 
 Conducted frequent internal and external training on product use, internals, and debugging techniques.
 
@@ -77,7 +89,7 @@ Ensured changes met design criteria and worked with application developers, busi
 
 Designed and built a prototype application modeling tool to quickly diagnose faults, find bottlenecks, and determine the effect of failures at any given point in the system.
 
-Executed dozens of implementations from testing deployments and backouts through to on site execution, working with both the development team and  production analysts.
+Involved in dozens of implementations from testing deployments and backouts through to on site execution, working with both the development team and production analysts.
 
 > RBC Toronto, ON 2005 – 2009, Production Analyst
 
@@ -97,7 +109,7 @@ Worked with application developers and application coordinators to solve problem
 
 > Ontario Die Company Ltd. Waterloo, ON 2003 - 2004, Network Administrator
 
-Contracted for a complete upgrade of all network services, including network switching hardware, new database software (Microsoft Navision), upgrades to punch clock hardware and software used in an industrial fabrication facility, and new drafting workstations and CAD software.
+Contracted for a complete upgrade of all network services, including network switching hardware, new database software (Microsoft Navision), upgrades to punch clock hardware and software used in an industrial fabrication facility, new drafting workstations and CAD software.
 
 Integrated new systems with Smarteam group management software backed by a new data vault.
 
