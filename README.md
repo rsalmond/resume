@@ -45,7 +45,11 @@ Software
 
 __Experience__ has allowed my to sharpen my skills.
 
-> Librato (SolarWinds) Vancouver, BC 2016 - Present, Site Reliability Engineer
+> Cisco (OpenDNS) Vancouver, BC 2017 - Present, Senior Software Engineer
+
+Part of a team tasked with delivering a managed Kubernetes service as part of an internal cloud platform. Designed and delivered managed clusters integrated with internal services four authentication, networking, and secrets.
+
+> Librato (SolarWinds) Vancouver, BC 2016 - 2017, Site Reliability Engineer
 
 Part of an IP acquisition of TraceView technology and personnel, joined the operations team and began building groundwork for a product unifying distributed tracing with metrics monitoring.
 
