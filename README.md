@@ -40,14 +40,14 @@ Software
  * Gunicorn, PHP-FPM, uWSGI, Tomcat, PhusionPassenger
  * RabbitMQ, SQS, Kinesis
  * Fabric, Boto, Saltstack, Chef, Terraform
- * Vagrant, Docker, ECS
+ * Vagrant, Docker, ECS, Kubernetes
  * Consul
 
 __Experience__ has allowed my to sharpen my skills.
 
 > Cisco (OpenDNS) Vancouver, BC 2017 - Present, Senior Software Engineer
 
-Part of a team tasked with delivering a managed Kubernetes service as part of an internal cloud platform. Designed and delivered managed clusters integrated with internal services four authentication, networking, and secrets.
+Part of a team tasked with delivering a managed Kubernetes service as part of an internal cloud platform. Designed and delivered managed clusters integrated with internal services for authentication, networking, and secrets.
 
 > Librato (SolarWinds) Vancouver, BC 2016 - 2017, Site Reliability Engineer
 
