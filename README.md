@@ -77,7 +77,7 @@ Directly involved in geting new users up and running with a sophisticated monito
 
 Worked on all aspects of customer support from liasing with technical writers to keep documentation accurate, to devising and iterating support processes, to maintaining and improving support tools and infrastructure.
 
-Gained familiarity with common web app components along the way such as popular message queues, app servers, frameworks (front-end and back end), middleware, virtualization and containerization tools.
+Gained familiarity with common web app components along the way such as popular message queues, app servers, frameworks (front-end and back-end), middleware, virtualization and containerization tools.
 
 Conducted frequent internal and external training on product use, internals, and debugging techniques.
 
