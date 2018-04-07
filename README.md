@@ -2,11 +2,11 @@
 
 __Profile__ of a problem solver.
 
-I am a skilled technologist with experience in software, internet technologies, and network administration. I bring depth and breadth of understanding to my work and have a knack for devising creative solutions using anything from industry standard tools to finding a use for whatever is on hand.
+I am a skilled technologist with experience in software development, cloud technologies, and networking. I bring depth and breadth of understanding to my work and have a knack for devising creative solutions using everything from industry standard tools to finding a use for whatever is on hand.
 
-The advantage I rely on to achieve results is systems analysis. I am interested in how software works, but I am fascinated by how individual components fit together in complex ways.
+The advantage I rely on to achieve results is systems analysis. I am interested in how things work and am fascinated by how individual components fit together in complex ways.
 
-My approach to success begins with familiarizing myself with the internals of systems I work with and using that to my advantage while clearly communicating my findings. I excel in problem resolution roles and do my best work when no one is sure exactly how to proceed.
+My approach to success begins with familiarizing myself with the internals of systems and using that to my advantage while clearly communicating my findings. I excel in problem resolution roles and am most engaged when no one is sure exactly how to proceed.
 
 __Technologies__ with which I have professional experience.
 
@@ -14,12 +14,11 @@ Programming Languages
 
 * RW
   * Python
+  * Go
   * Bash, sh
-  * PHP
   * Javascript, ES6
   * JCL / REXX / ISPF
 * RO
-  * Go
   * Java
   * C / C++ / C#
   * COBOL
@@ -33,33 +32,39 @@ Platforms and Environments
 
 Software
 
- * RAID (md), Logical Voluming (lvm), S3
+ * Saltstack, Ansible, Chef
+ * Terraform, Vagrant, Packer
+ * Fabric, Boto
+ * Docker, ECS, Kubernetes
  * MySQL, PostgreSQL, Amazon Aurora, RDS, DB2
- * Cassandra, DynamoDB
+ * DynamoDB, Cassandra
+ * RabbitMQ, SQS, Kinesis
  * nginx, Apache, ELB/ALB
  * Gunicorn, PHP-FPM, uWSGI, Tomcat, PhusionPassenger
- * RabbitMQ, SQS, Kinesis
- * Fabric, Boto, Saltstack, Chef, Terraform
- * Vagrant, Docker, ECS, Kubernetes
  * Consul
+ * RAID (md), Logical Voluming (lvm), S3
 
 __Experience__ has allowed my to sharpen my skills.
 
 > Cisco (OpenDNS) Vancouver, BC 2017 - Present, Senior Software Engineer
 
-Part of a team tasked with delivering a managed Kubernetes service as part of an internal cloud platform. Designed and delivered managed clusters integrated with internal services for authentication, networking, and secrets.
+Part of a team responsible for delivering a managed Kubernetes service as part of an internal cloud platform. Designed and delivered managed clusters integrated with several other internal services for authentication, networking, and secrets.
+
+Identified key metrics and events to track for monitoring and alerting, wrote runbooks, and participated in on-call rotation.
+
+Worked with users new to Kubernetes to help them get started with essential concepts, understand how to structure their deployments, and use community standard tools like Helm.
 
 > Librato (SolarWinds) Vancouver, BC 2016 - 2017, Site Reliability Engineer
 
-Part of an IP acquisition of TraceView technology and personnel, joined the operations team and began building groundwork for a product unifying distributed tracing with metrics monitoring.
+Part of an IP acquisition of technology and personnel. Joined the operations team and began building the groundwork for a product unifying distributed tracing technology with metrics monitoring.
 
 Designed, documented, and implemented cloud infrastructure using Terraform and Saltstack and integrating with existing chatops and internal operations APIs.
 
-Continued to participate in operational on-call support of legcy TraceView system.
+Continued to participate in operational on-call support of legcy systems.
 
 > AppNeta Vancouver, BC 2015 - 2016, QA Engineer
 
-Hired as the first dedicated QA staff for TraceView, a distributed tracing system for performance analysis of web applications.
+Hired as the first dedicated QA staff for a distributed tracing system for web applications.
 
 Worked closely with the development team devising test plans, verifying bug fixes, and evaluating features. 
 
@@ -71,7 +76,7 @@ Participated in on-call ops rotation carrying the pager and handling production 
 
 > AppNeta Vancouver, BC 2013 - 2015, Technical Support Engineer
 
-Hired as the first dedicated support staff for TraceView.
+Hired as the first dedicated support staff for a distributed tracing system for web applications.
 
 Directly involved in geting new users up and running with a sophisticated monitoring product in their unique environments using our supported components, including the most popular web servers on the internet, any one of a half dozen supported programming languages, and countless web app frameworks and toolkits.
 
@@ -85,7 +90,7 @@ Discovered and thoroughly documented several critical security issues.
 
 > RBC Toronto, ON 2009 - 2012, Technical Systems Analyst
 
-Automated code rollouts and maintenance of fifteen test environments for a large transaction processing application resulting in a nearly 50% reduction in testing time.
+Automated code rollouts and maintenance of fifteen test environments for a large transaction processing application resulting in a nearly fifty percent reduction in testing time.
 
 Ran and documented frequent software tests involving the integration and validation of new components, organization and upkeep of test data, cataloging of reports, and problem resolution.
 
@@ -117,7 +122,7 @@ Contracted for a complete upgrade of all network services, including network swi
 
 Integrated new systems with Smarteam group management software backed by a new data vault.
 
-Built and maintained a multi-layered email filtering system resulting in an over 90% reduction in unsolicited commercial email, and a similar reduction in inbound email borne viruses.
+Built and maintained a multi-layered email filtering system resulting in an over ninety percent reduction in unsolicited commercial email, and a similar reduction in inbound email borne viruses.
 
 Involved in support for remote facilities, including remote administration, travel for on-site upgrades, data backups and recoveries for offices in the US and support for all local staff.
 
