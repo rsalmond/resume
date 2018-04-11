@@ -17,18 +17,14 @@ Programming Languages
   * Go
   * Bash, sh
   * Javascript, ES6
-  * JCL / REXX / ISPF
 * RO
   * Java
   * C / C++ / C#
-  * COBOL
 
 Platforms and Environments
 
  * Linux
  * AWS
- * z/OS / (TSO, ISPF, SPIFFY)
- * IBM Unix Systems Services
 
 Software
 
@@ -43,6 +39,7 @@ Software
  * Gunicorn, PHP-FPM, uWSGI, Tomcat, PhusionPassenger
  * Consul
  * RAID (md), Logical Voluming (lvm), S3
+ * TraceView, Datadog, Librato, Graphite/Grafana
 
 __Experience__ has allowed my to sharpen my skills.
 
@@ -60,7 +57,7 @@ Part of an IP acquisition of technology and personnel. Joined the operations tea
 
 Designed, documented, and implemented cloud infrastructure using Terraform and Saltstack and integrating with existing chatops and internal operations APIs.
 
-Continued to participate in operational on-call support of legcy systems.
+Continued to participate in operational on-call support of legacy systems.
 
 > AppNeta Vancouver, BC 2015 - 2016, QA Engineer
 
@@ -78,9 +75,9 @@ Participated in on-call ops rotation carrying the pager and handling production 
 
 Hired as the first dedicated support staff for a distributed tracing system for web applications.
 
-Directly involved in geting new users up and running with a sophisticated monitoring product in their unique environments using our supported components, including the most popular web servers on the internet, any one of a half dozen supported programming languages, and countless web app frameworks and toolkits.
+Directly involved in getting new users up and running with a sophisticated monitoring product in their unique environments using our supported components, including the most popular web servers on the internet, any one of a half dozen supported programming languages, and countless web app frameworks and toolkits.
 
-Worked on all aspects of customer support from liasing with technical writers to keep documentation accurate, to devising and iterating support processes, to maintaining and improving support tools and infrastructure.
+Worked on all aspects of customer support from liaising with technical writers to keep documentation accurate, to devising and iterating support processes, to maintaining and improving support tools and infrastructure.
 
 Gained familiarity with common web app components along the way such as popular message queues, app servers, frameworks (front-end and back-end), middleware, virtualization and containerization tools.
 
