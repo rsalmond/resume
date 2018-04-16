@@ -30,6 +30,7 @@ Software
 
  * Saltstack, Ansible, Chef
  * Terraform, Vagrant, Packer
+ * Jenkins, CircleCI
  * Fabric, Boto
  * Docker, ECS, Kubernetes
  * MySQL, PostgreSQL, Amazon Aurora, RDS, DB2
