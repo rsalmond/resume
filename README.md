@@ -25,26 +25,37 @@ Platforms and Environments
 
  * Linux
  * AWS
+ * GCP
 
 Software
 
+ * Kubernetes, Docker, ECS
+   * cert-manager, ArgoCD, external-dns
+   * Helm, jsonnet, kustomize
+ * Terraform, Atlantis, Packer, Vagrant
+ * Jenkins, CircleCI, Drone, Cloudbuild
  * Saltstack, Ansible, Chef
- * Terraform, Vagrant, Packer
- * Jenkins, CircleCI
- * Fabric, Boto
- * Docker, ECS, Kubernetes
- * MySQL, PostgreSQL, Amazon Aurora, RDS, DB2
- * DynamoDB, Cassandra
- * RabbitMQ, SQS, Kinesis
- * nginx, Apache, ELB/ALB
- * Gunicorn, PHP-FPM, uWSGI, Tomcat, PhusionPassenger
+ * Boto3, google-cloud-python, Fabric
+ * MySQL, PostgreSQL, Amazon Aurora, RDS, CloudSQL, DB2
+ * DynamoDB, Cassandra, BigQuery
+ * Prometheus, Grafana, Stackdriver, Cloudwatch, Datadog
+ * SQS, Google Pubsub, Kinesis, RabbitMQ
+ * Istio, Envoy, ELB/ALB, Google L7 and L4, nginx, Apache
+ * GCS, S3, AWS EBS, Google PD, K8S PV's
+ * Gunicorn, uWSGI, PHP-FPM, Tomcat, PhusionPassenger
  * Consul
- * RAID (md), Logical Voluming (lvm), S3
- * TraceView, Datadog, Librato, Graphite/Grafana
 
 __Experience__ has allowed my to sharpen my skills.
 
-> Cisco (OpenDNS) Vancouver, BC 2017 - Present, Senior Software Engineer
+> Descartes Labs Santa Fe, NM 2018 - Present, Site Reliability Engineer
+
+Brought on to help scale an established SaaS product. Designed and implemented a hierarchical Terraform repo to capture new prod/stage environments for core services, maximize operator confidence, and reduce code duplication.
+
+Migrated a greenfield prototype project from a free-form dev enviroment using Google's managed Istio to a full IaC environment using OSS operator based Istio reducing version churn and gaining greater control over our service mesh.
+
+Gained deep familiarity with GCP, in subtle areas such as IAM, GKE, and IAP to name a few. Partnered with Google solutions engineers to develop a GCS storage class management tool which delivered significant cost savings in our cloud storage bill.
+
+> Cisco (OpenDNS) Vancouver, BC 2017 - 2018, Senior Software Engineer
 
 Part of a team responsible for delivering a managed Kubernetes service as part of an internal cloud platform. Designed and delivered managed clusters integrated with several other internal services for authentication, networking, and secrets.
 
