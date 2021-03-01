@@ -47,7 +47,7 @@ Software
 
 __Experience__ has allowed my to sharpen my skills.
 
-> Descartes Labs Santa Fe, NM 2018 - Present, Site Reliability Engineer
+> Descartes Labs Santa Fe, NM 2018 - 2021, Site Reliability Engineer
 
 Brought on to help scale an established SaaS product. Designed and implemented a hierarchical Terraform repo to capture new prod/stage environments for core services, maximize operator confidence, and reduce code duplication.
 
