@@ -26,6 +26,7 @@ Platforms and Environments
  * Linux
  * AWS
  * GCP
+ * Azure
 
 Software
 
@@ -46,6 +47,18 @@ Software
  * Consul
 
 __Experience__ has allowed my to sharpen my skills.
+
+> Superorbital (fully remote) 2021 - present, Instructor
+
+Brought on as the first dedicated instructor to take over the maintenance, curation, and delivery of advanced cloud training workshops from the founder of the company, freeing him up to run the business.
+
+Responsible for upkeep of curriculum; from keeping up with changes to software projects like Kubernetes, Terraform, and Istio, to writing new workshops from scratch. The core of this task is turning documentation, readmes, and source code into a clear and visual narrative structure that equips students for rapid uptake of complex technical information.
+
+Devivered over a hundred three to five day long intensive hands on technical workshops with groups of up to 28 students in a live cloud lab environment, attended by  engineers both new to the industry as well as seasoned veterans.
+
+Handled the care and feeding of our in-house classroom lab environments, including maintining a full suite of automated tests which back every lab exercise given to students, ensuring a seamless learning experience. As well as keeping our automation and tooling up to date and adding features to our cloud infrastructure to support curriculum changes.
+
+Created and delivered technical talks and workshops at numerous conferences both on and offline, including Kubehuddle, Cloud Native Security Con, and Istio Day (co-located Kubecon event).
 
 > Descartes Labs Santa Fe, NM 2018 - 2021, Site Reliability Engineer
 
