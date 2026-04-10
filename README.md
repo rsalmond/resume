@@ -16,7 +16,6 @@ Programming Languages
   * Python
   * Go
   * Bash, sh
-  * Javascript, ES6
 * RO
   * Java
   * C / C++ / C#
@@ -34,14 +33,14 @@ Software
    * cert-manager, ArgoCD, external-dns
    * Helm, jsonnet, kustomize
  * Terraform, Atlantis, Packer, Vagrant
+ * Istio, Envoy, Gateway API, ELB/ALB, Google L7 and L4, nginx, Apache
+ * Prometheus, Grafana, Stackdriver, Cloudwatch, Datadog
  * Jenkins, CircleCI, Drone, Cloudbuild
  * Saltstack, Ansible, Chef
  * Boto3, google-cloud-python, Fabric
  * MySQL, PostgreSQL, Amazon Aurora, RDS, CloudSQL, DB2
  * DynamoDB, Cassandra, BigQuery
- * Prometheus, Grafana, Stackdriver, Cloudwatch, Datadog
  * SQS, Google Pubsub, Kinesis, RabbitMQ
- * Istio, Envoy, ELB/ALB, Google L7 and L4, nginx, Apache
  * GCS, S3, AWS EBS, Google PD, K8S PV's
  * Gunicorn, uWSGI, PHP-FPM, Tomcat, PhusionPassenger
  * Consul
