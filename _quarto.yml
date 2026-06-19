@@ -1,0 +1,13 @@
+project:
+  type: default
+  render:
+    - readme.qmd
+
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=1in
+    fontsize: 11pt
+    toc: false
+    number-sections: false
